@@ -1,8 +1,8 @@
 # Proyecto - Accidentes vehiculares en la CDMX
 
-# Equipo 13
+# Equipo 6
 
-* Jesus Antonio Hernandez Aguilera: antoniohdz_21@hotmail.com
+
 * Angel Uriel Meléndez Rivera: amelendezr1100@alumno.ipn.mx
 * Adalberto Benitez Zapata: adalb518@gmail.com
 * Sergio Maldonado Rodriguez: sermalrod@outlook.com
