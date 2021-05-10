@@ -8,11 +8,11 @@
 * Sergio Maldonado Rodriguez: sermalrod@outlook.com
 
 # Contenido del Repositorio
-* Jupyter Notebook: contiene el Jupyter notebook perteneciente al proyecto
+* JNotebook: contiene los notebook del proyecto de este modulo
 * Presentacion: contiene la presentacion del proyecto
 * Reporte version git: contiene el reporte del proyecto en version git
 * Video: contiene el video del proyecto
-* Dataset_limpio: contiene el dataset generado apartir del analisis.
+
 
 # Identificación del Problema
 
