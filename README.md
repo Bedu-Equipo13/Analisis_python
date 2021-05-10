@@ -10,7 +10,7 @@
 # Contenido del Repositorio
 * Notebook: contiene los notebook del proyecto de este modulo
 * Presentacion: contiene la presentacion del proyecto
-* Reporte version git: contiene el reporte del proyecto en version git
+* Reporte: contiene el reporte del proyecto en version git
 * Video: contiene el video del proyecto
 
 
